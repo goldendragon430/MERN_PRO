@@ -1,4 +1,1 @@
-Polygon Wallet system installed
-- Deposite feature done
 - Widthdrawl feature done 
-so Wallet system is completed
