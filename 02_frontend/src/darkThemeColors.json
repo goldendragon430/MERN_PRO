@@ -1,0 +1,36 @@
+{
+  "primary": "#05A962",
+  "primaryContrast": "#d6ded2",
+  "backgroundColor": "#222222",
+  "backgroundActive": "#161B30",
+  "backgroundLightDark": "#262D47",
+  "backgroundBlue": "#1D67E1",
+  "backgroundDark": "#00000040",
+  "backgroundLightGray": "#40475d3d",
+
+  "iconDark": "#40475D",
+  "iconGray": "#929292",
+
+  "textPrimary": "#F3F4FA",
+  "textGray": "#777e90",
+  "white": "#FFFFFF",
+  "gray": "#C4C4C4",
+  "blue": "#1D67E1",
+  "yellow": "#FCCF31",
+  "purple": "#6078EA",
+  "success": "#01E075",
+  "fail": "#F55555",
+  "warning": "#de2102",
+  "warning1": "#bd8850",
+  "labelColor": "#636C93",
+  "lightDark": "#6B749A",
+  "inactive": "#595F74",
+  "lightGray": "#26272B",
+  "slogan": "#FCE64C",
+
+  "theadColor": "#FFFFFF",
+  "tbodyColor": "#FFFFFF",
+  "tabColor": "#FFFFFF",
+  "creditColor" : "#ada8a81f",
+  "borderColor": "#4f5054"
+}
